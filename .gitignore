@@ -26,3 +26,8 @@ node_modules/
 
 # taskmaster
 .taskmaster
+
+# results files
+
+api-test-results/*
+types/*
